@@ -1,1 +1,1 @@
-this is how to give emphasis
+**Strong** __Strong__
